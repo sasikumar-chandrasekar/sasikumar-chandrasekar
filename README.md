@@ -119,14 +119,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasikumar-chandrasekar&layout=compact&theme=radical" width="49%"/>
-</p>
-
----
-
 ## 📫 Contact Me
 <a href="mailto:sasimymails@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email"/>
