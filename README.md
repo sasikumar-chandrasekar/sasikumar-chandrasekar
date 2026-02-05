@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm Sasikumar Chandrasekar
 
-![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=7F7F7F&width=600&lines=Full+Stack+Developer+%E2%9C%85+Open+Source+Contributor+%F0%9F%92%BB)
+![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=7F7F7F&width=600&lines=Full+Stack+Developer+%E2%9C%85)
 
 ## 📊 GitHub Stats
 
