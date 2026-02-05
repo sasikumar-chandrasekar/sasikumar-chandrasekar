@@ -1,4 +1,4 @@
-# Hi there 👋, I'm **Sasikumar Chandrasekar** 👨‍💻
+# Hi there 👋, I'm **Sasikumar Chandrasekar**
 
 ![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=7F7F7F&width=600&lines=Full+Stack+Developer+%E2%9C%85)
 
