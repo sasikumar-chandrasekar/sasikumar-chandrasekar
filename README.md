@@ -1,8 +1,7 @@
 # Hi there 👋, I'm Sasikumar Chandrasekar
-![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=7F7F7F&width=600&lines=Full+Stack+Developer+%E2%9C%85)
-
-- 🔭 Working on UST.
-- 📫 How to reach me [LinkedIn!](https://www.linkedin.com/in/sasikumar-chandrasekar)
+**Role:** Full-stack Developer (React, Node.js, TypeScript)  
+**Currently Working At:** [UST](https://www.ust.com/)
+**Passionate About:** Building scalable web apps, microservices, cloud-native solutions, and contributing to open-source projects.  
 
 
 ## 🛠️ Tech Stack
@@ -117,6 +116,25 @@
 <a href="https://vitejs.dev/" target="_blank">
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" alt="Vite"/>
 </a>
+
+---
+
+## 📈 GitHub Stats
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasikumar-chandrasekar&layout=compact&theme=radical" width="49%"/>
+</p>
+
+---
+
+## 📫 Contact Me
+<a href="mailto:sasimymails@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/sasikumar-chandrasekar" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
+</a>
+
 
 
 
