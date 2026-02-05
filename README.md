@@ -10,26 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me [LinkedIn!](https://www.linkedin.com/in/sasikumar-chandrasekar)
 
 
-## GitHub stats
-
-Display the GitHub stats card for the project maintainer:
-
-
-![GitHub Profile Card](https://github-stats-alpha.vercel.app/api?username=sasikumar-chandrasekar)
-
-![GitHub Profile Card](https://github-stats-alpha.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true&theme=tokyonight)
-
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true&theme=tokyonight)
-
-
-
-![GitHub Profile Card](https://github-stats-alpha.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true&theme=tokyonight)
-
-
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true&theme=tokyonight)
-
-
-
 
 
 
