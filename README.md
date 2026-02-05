@@ -1,7 +1,10 @@
-# Hi there 👋, I'm Sasikumar Chandrasekar
-**Role:** Full-stack Developer (React, Node.js, TypeScript)  
-**Currently Working At:** [UST](https://www.ust.com/)
-**Passionate About:** Building scalable web apps, microservices, cloud-native solutions, and contributing to open-source projects.  
+# Hi there 👋, I'm **Sasikumar Chandrasekar** 👨‍💻 
+
+**💼 Role:** Full-stack Developer | React, Node.js, TypeScript  
+**🏢 Currently:** [UST](https://www.ust.com/)  
+**🚀 Passion:** Building scalable web applications, designing cloud-native solutions, developing microservices, and contributing to open-source projects.  
+**🎯 Focus:** Clean code, performance optimisation, and innovative problem-solving.
+
 
 
 ## 🛠️ Tech Stack
