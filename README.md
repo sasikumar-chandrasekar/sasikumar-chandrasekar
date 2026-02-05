@@ -9,19 +9,6 @@
 
 ## 🛠️ Tech Stack
 
----
-
-## 📫 Contact Me
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sasimymails@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/sasikumar-chandrasekar)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/sasikumar-chandrasekar)
-
-
-
-
-## 🛠️ Tech Stack
-
 ### Frontend
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)](https://reactjs.org/) 
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)](https://redux.js.org/) 
@@ -69,3 +56,12 @@
 
 ### Generative AI
 [![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-8DD6F9?style=for-the-badge&logo=github&logoColor=000)](https://github.com/features/copilot)
+
+---
+
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sasimymails@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/sasikumar-chandrasekar)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/sasikumar-chandrasekar)
+
