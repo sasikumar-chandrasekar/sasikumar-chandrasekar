@@ -10,6 +10,14 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)](https://reactjs.org/) 
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)](https://redux.js.org/) 
+[![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=fff)](https://redux-toolkit.js.org/) 
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)](https://nextjs.org/) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)](https://getbootstrap.com/) 
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff)](https://tailwindcss.com/) 
+
+### Frontend
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)](https://reactjs.org/)  
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)](https://redux.js.org/)  
 [![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=fff)](https://redux-toolkit.js.org/)  
