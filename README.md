@@ -22,7 +22,9 @@ Display the GitHub stats card for the project maintainer:
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true&theme=tokyonight)
 
 
-![GitHub Stats](https://github-readme-stats-6r0xxjlav-sasikumar-cs-projects.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true&theme=tokyonight)
+
+![GitHub Profile Card](https://github-stats-alpha.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true&theme=tokyonight)
+
 
 
 
