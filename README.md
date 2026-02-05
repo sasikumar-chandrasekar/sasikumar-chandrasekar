@@ -4,8 +4,7 @@
 **sasikumar-chandrasekar/sasikumar-chandrasekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 --->
-- 🔭 I’m currently working on UST.
-- 👯 I’m looking to collaborate on open source.
+- 🔭 Working on UST.
 - 📫 How to reach me [LinkedIn!](https://www.linkedin.com/in/sasikumar-chandrasekar)
 
 
@@ -114,5 +113,6 @@ Here are some ideas to get you started:
 
 <!--- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff) --->
 <!--- - 🌱 I’m currently learning web service architecture. --->
+<!--- - 👯 I’m looking to collaborate on open source. --->
 
 
