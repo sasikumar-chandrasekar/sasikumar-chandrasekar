@@ -10,3 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me [LinkedIn!](https://www.linkedin.com/in/sasikumar-chandrasekar)
 
 ![GitHub Stats](https://github-readme-stats-cut307b3o-sasikumar-cs-projects.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true)
+
+![GitHub Stats](https://github-readme-stats-cut307b3o-sasikumar-cs-projects.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true)
+
