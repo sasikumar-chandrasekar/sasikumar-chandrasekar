@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋, I'm Sasikumar Chandrasekar
 <!---
-**mrsasi/mrsasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sasikumar-chandrasekar/sasikumar-chandrasekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 --->
 
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me [LinkedIn!](https://www.linkedin.com/in/sasikumar-chandrasekar)
 
 
-# Hi there 👋, I'm Sasikumar Chandrasekar
+
 
 ![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=7F7F7F&width=600&lines=Full+Stack+Developer+%E2%9C%85)
 
