@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats-cut307b3o-sasikumar-cs-projects.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats-cut307b3o-sasikumar-cs-projects.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true)
 
