@@ -14,13 +14,6 @@ Here are some ideas to get you started:
 
 Display the GitHub stats card for the project maintainer:
 
-![GitHub Stats](https://github-readme-stats-6r0xxjlav-sasikumar-cs-projects.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true)
-
-
-![GitHub Stats](https://github-readme-stats-cut307b3o-sasikumar-cs-projects.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true&theme=tokyonight)
 
 ![GitHub Profile Card](https://github-stats-alpha.vercel.app/api?username=sasikumar-chandrasekar)
 
