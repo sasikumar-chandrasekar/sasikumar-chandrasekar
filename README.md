@@ -50,7 +50,7 @@
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)](https://vitejs.dev/)
 
 ### Project Management
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)](https://www.atlassian.com/software/jira) 
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)](https://www.geeksforgeeks.org/software-engineering/what-is-jira-software/) 
 
 ### Generative AI
 [![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-8DD6F9?style=for-the-badge&logo=github&logoColor=000)](https://github.com/features/copilot)
