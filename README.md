@@ -10,7 +10,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me [LinkedIn!](https://www.linkedin.com/in/sasikumar-chandrasekar)
 
 
-![Sasikumar's GitHub stats](https://github-readme-stats-cut307b3o-sasikumar-cs-projects.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1)
+## GitHub stats
+
+Display the GitHub stats card for the project maintainer:
+
+[![GitHub Stats](https://github-readme-stats-cut307b3o-sasikumar-cs-projects.vercel.app/api?username=sasikumar-chandrasekar&show_icons=true)](https://github.com/sasikumar-chandrasekar)
 
 
 
