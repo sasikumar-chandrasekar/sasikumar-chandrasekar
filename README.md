@@ -27,7 +27,8 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)](https://www.mongodb.com/) 
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)](https://redis.io/) 
 [![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge)](https://restfulapi.net/) 
-[![Microservices](https://img.shields.io/badge/-Microservices-FFD700?style=for-the-badge)](https://microservices.io/)  
+[![Microservices](https://img.shields.io/badge/-Microservices-FFD700?style=for-the-badge)](https://microservices.io/)
+[![Bun](https://img.shields.io/badge/-Bun-000000?style=for-the-badge&logo=bun)](https://bun.sh/)
 
 ### Programming Languages & Concepts
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
