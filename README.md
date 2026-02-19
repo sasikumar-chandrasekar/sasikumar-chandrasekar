@@ -8,6 +8,8 @@
 🚀 Passion: Building web apps, cloud solutions, microservices, and contributing to open source projects.  
 🎯 Focus: Clean code, performance optimisation, and innovative problem-solving.
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=7F7F7F&width=600&lines=Full+Stack+Developer+%E2%9C%85)
+
 
 ## 🛠️ Tech Stack
 ### Frontend
