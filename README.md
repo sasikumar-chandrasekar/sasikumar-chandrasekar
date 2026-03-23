@@ -63,3 +63,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/sasikumar-chandrasekar)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/sasikumar-chandrasekar)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasikumar-chandrasekar&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sasikumar-chansrasekar&show_icons=true&locale=en" alt="sasikumar-chandrasekar" /></p>
